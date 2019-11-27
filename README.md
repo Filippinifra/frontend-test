@@ -1,4 +1,4 @@
-# [boomimagestudio.com](https://boomimagestudio.com/) - Front End test
+# [boomimagestudio.com](https://boomimagestudio.com/) - Front End Test
 Welcome!
 
 This test is a part of our hiring process at BOOM for the Front End Developer position. 
@@ -36,7 +36,7 @@ Git example for sending us a standalone bundle:
  `git bundle create <yourname>.bundle --all --branches`
 - A README.md file explaining the decisions you've made solving this task including technology and library choices and
 any instructions required to run your solution and tests.
-- Send everything to umberto.difabrizio@boomimagestudio.com
+- Send everything to challenges@boomimagestudio.com
 
 ## Doubts?
 Do you have doubts related to the process? Open an issue and we'll be happy to help.

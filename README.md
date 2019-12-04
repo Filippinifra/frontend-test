@@ -31,7 +31,7 @@ It goes without saying (but we say it), testing is mandatory, pick your favorite
 We use React & Redux in our platform so if you know those bonus points! Anyways, regardless of the framework you are most experienced with (Vue, Angular, Elm, etc) we are looking for a well-engineered solution in Javascript. We'll be focusing on how you'll organize your components and your style.
 
 ## Deliverable 
-- A bundled/archived repository showing your commit history or a link to an accessible private repository with your work in (Github can host personal private repositories for free). 
+- A bundled/archived repository showing your commit history. 
 Git example for sending us a standalone bundle:
  `git bundle create <yourname>.bundle --all --branches`
 - A README.md file explaining the decisions you've made solving this task including technology and library choices and

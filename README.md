@@ -9,7 +9,7 @@ Despite not having a time limit, we recommend that you don't spend more than 10 
 We believe that above all a software engineer must be able to create products and this challenge aims exactly at testing that: will you be able to create well-engineered solutions?
 
 ## Objective
-Build a dashboard to monitor the number of photos we delivered for each day of the week.
+Build a dashboard to monitor the **number of photos** we delivered for each day of the week.
 It must be possible to show the break down for clients for each day of the week and for each type of photography we do.
 You might use pagination or scroll in order to avoid freezing the UI.
 

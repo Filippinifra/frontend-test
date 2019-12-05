@@ -11,7 +11,6 @@ We believe that above all a software engineer must be able to create products an
 ## Objective
 Build a dashboard to monitor the **number of photos** we delivered for each day of the week.
 It must be possible to show the break down for clients for each day of the week and for each type of photography we do.
-You might use pagination or scroll in order to avoid freezing the UI.
 
 ## Specs
 The dashboard might look like something like this:

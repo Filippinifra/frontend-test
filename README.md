@@ -1,4 +1,4 @@
-# [boomimagestudio.com](https://boomimagestudio.com/) - Front End Test
+# [boom.co](https://boom.co/) - Front End Test
 Welcome!
 
 This test is a part of our hiring process at BOOM for the Front End Developer position. 

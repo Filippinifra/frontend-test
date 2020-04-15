@@ -19,7 +19,7 @@ The dashboard might look like something like this:
 
 Don’t worry too much about the UI because in real-life at BOOM our designers will take care of that, but this is your chance to show off your skills, be creative!
 
-For each day of the week you have to show the total sum of photos that happened that exact weekday. You can get this information by querying our API: https://frontend-test-api-server.herokuapp.com/docs . It is hosted on Heroku so it can take a little the first time you call it.
+For each day of the week you have to show the total sum of photos that happened that exact weekday. You can get this information by querying our API: https://frontend-test-api-server.herokuapp.com/docs. It is hosted on Heroku so it can take a little the first time you call it. It's a REST API and has `offset` and `limit` parameters to fetch the data you need.
 
 The solution must be responsive for both Desktop and Mobile.
 

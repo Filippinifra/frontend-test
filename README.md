@@ -35,7 +35,7 @@ Git example for sending us a standalone bundle:
  `git bundle create <yourname>.bundle --all --branches`
 - A README.md file explaining the decisions you've made solving this task including technology and library choices and
 any instructions required to run your solution and tests.
-- Send everything to challenges@boomimagestudio.com
+- Send everything to challenges@boom.co
 
 ## Doubts?
 Do you have doubts related to the process? Open an issue and we'll be happy to help.
